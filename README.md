@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my GitHub profile 
+## 👋 Welcome to my GitHub profile 
 
 I'm a software developer and student from Nitra interested in backend development, IoT and building scale models ✈.
 
